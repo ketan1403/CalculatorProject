@@ -1,6 +1,3 @@
-
-# CREATING A CALCULATOR IN PYTHON USING TKINTER LIBRARY.
-
 from tkinter import *
 
 main = Tk()
